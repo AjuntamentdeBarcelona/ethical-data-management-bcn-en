@@ -1,0 +1,56 @@
+# Objectives of the measure
+
+This measure establishes the general policy for the governance, planning, procurement, management, analysis, use, protection, access and preservation, as long as necessary, and the reuse of municipal data to add value to municipal digital information throughout its life cycle, as well as aspects arising from this in terms of human resources, IT infrastructures and resources, economic management and support services.footnote:[Although this measure refers to various aspects of IT resources, such as privacy, confidentiality, information quality, disclosure and statistical policy, these concepts will be treated and developed in later directives. Units must apply the policies of this measure, and the directives and guidelines in a coherent and constant way.]
+
+The strategy of responsible data management is defined with the aim of helping to guide the transformation of the municipal government’s IT systems by means of the institutionalisation of more agile approaches, which should facilitate a speedy adoption of the technological changes in such a way that security, technological sovereignty, privacy and information and data management are reinforced, along with all municipal services and programmes.
+
+This measure aims to ensure the City Council is able to establish a general infrastructure and harmonised processes in order to manage, use and (partially) disseminate data, which is known as *_data commons_*,footnote:[Already under way at http://ajuntament.barcelona.cat/digital/en/digital-transformation/city-data-commons.] and that it is also able to promote, implement and supervise projects that capitalise on and enhance data in an agile, uniform way (e.g. in terms of data interoperability and standardisation) through the Municipal Data Office, and ensure the responsible management of data in accordance with current legislation, together with the Data Protection Officer.
+
+## Goals
+
+The main objectives of this measure are:
+
+* To define the Municipal Data Office’s objectives, mission, responsibilities and authority.
+* To identify the structure and mechanisms for data governance, in its broadest sense, in Barcelona City Council.
+* To define the main governing bodies for the City Council’s actions regarding data, centred on ethical use, data sovereignty, the social aspect, guaranteeing privacy and security, permanent access and the reuse of data.
+* To ensure responsible data management throughout its life cycle, respecting the FAIR data principles (findable, accessible, interoperable and reusable).
+* To define the data architecture, with its data lake repository and City OS, as well as the IT infrastructures needed to use it.
+* To improve the internal and external use of the City Council’s data, in order to add value and transform it into a real asset for high corporate enhancement.
+* To develop the procedures and mechanisms for processing data as systematically and automatically as possible, respecting current legislation and without endangering the privacy, confidentiality and security of that data.
+
+In order to achieve the programme’s objectives, certain steps are clearly necessary.
+Firstly, for promoting and directing our vision of data commons, we have to be able to propose and offer *innovative solutions and visions* concerning information for the general public.
+In order to do this, we have to ensure a certain level of internal alignment, in terms of available technology and data.
+We then have to *explain our* *vision and establish a clear dialogue* with the city’s stakeholders in order to jointly promote our vision of *data commons*, with rules that must be established.
+Finally, we have to be able to show specific examples of the application of this vision for the common good of city residents, in order to ensure their support for our work.
+
+This measure also presents *current emblematic projects*, through which these objectives are starting to be achieved, along with the structures, responsibilities and projects they require.
+
+## Barcelona Data Commons
+
+The current situation of municipal data has to be transformed in order to turn it into a public asset, or *_data commons_*, with defined governance and rules that are created from the perspective of data as a common asset.
+The public and private perception of data has to change from that of an asset that offers a competitive advantage to one of a social “infrastructure” that must be public in order to ensure common well-being, and which is exchanged on a _quid pro quo basis_.
+The more data there is, the higher its quality, and the more confidence there is in the exchange and privacy rules for this common asset, the better all the stakeholders taking part will be able to perform.
+
+In regard to this _data commons_ perspective, the aim of this measure is to establish the architecture, processes and operational standards based on application programming interfaces (API), which make it possible to group data sources into a common *_data lake_*.
+This involves document-configuration processes for the datasets, as well as a mapping of the wealth of general data present in the Administration and an assessment of its quality.
+It also involves getting this infrastructure prepared for (partial) opening to external social stakeholders, with the aim of providing support to the proposed vision for the data-commons framework.
+
+In order to promote and direct this concept of data commons, the City Council has to be able to propose and offer innovative solutions and ideas concerning data relating to the general public.
+In order to do this, we have to ensure a certain level of internal alignment in terms of available technology and data.
+We then have to explain our concept and establish a clear dialogue with the city’s stakeholders in order to jointly promote our concept of data commons, with rules that we must jointly establish with the general public.
+Finally, we have to be able to show specific examples of the application of this data commons concept to city residents, in order to ensure their support for our work.
+This also has to be achieved while recognising the need to return the control of this data to the city residents who produce it, so that they can decide what they want to keep private and what they want to share, and with whom and under what conditions.
+This vision, based on the concept of the general public’s data sovereignty, will take the form of experimental projects, such as DECODE (see below) and in the integration of new technologies, such as distributed registries or blockchains and data encryption.
+
+.Barcelona Data Commons
+image::infografia_en.svg[Barcelona Data Commons]
+
+## The Municipal Data Office and the Chief Data Officer (CDO)
+
+Barcelona recognises the opportunity for demonstrating the proper use of data when making informed decisions, as well as for defining, analysing and resolving the challenges currently facing big cities, and the need for responsible and ethical management of this data.
+By using this measure, it therefore establishes the mission and objectives of the new Municipal Data Office (MDO) led by a Chief Data Officer (CDO), while also providing it with the necessary (human, technical and economic) resources to make use of the data pertaining to the city and its residents that is kept by the city.
+Barcelona is therefore following the example of major North American cities, such as Chicago, New York and Boston, with their respective Chief Data Officers, and more recently other European cities, such as London and Paris, which, by designing a new strategy and vision, consider data to be part of the city’s own infrastructure.
+
+In this case, through this government measure and the action plan it contains, Barcelona becomes the first Spanish city to recognise the importance of data, the first one to appoint a CDO and the first one to create its own data-lake and data-commons structures.
+This should make it possible to produce informed public policies by using the information provided by the data, its correct treatment and the resulting analysis, and by opening up this data to the civil and industrial sectors, as far as possible, in order to strengthen the local economy and the actions of civil society.

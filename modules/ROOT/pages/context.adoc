@@ -1,0 +1,75 @@
+# Context
+
+## Current situation
+The City Council currently manages a lot of data including many kinds of information content that need to be properly identified and supervised, in order to ensure compliance with the inherent functions of public service, while respecting, and not infringing, the regulations concerning privacy, confidentiality, security, transparency, access and reuse that current legislation requires.
+Furthermore, we have to be able to work on and manage this data in a sustainable and appropriate way, in order to provide it with added value and a social aspect, transforming it into a real asset for city residents and for the municipal council itself.
+In the City Council, data is often kept in “informative silos” or in vertical piles, which means it cannot be easily shared between departments.
+This has had a major effect on the organisation and it is something that this measure aims to change.
+
+From a cultural point of view, in recent years, the municipal organisation has gradually assumed the fact that municipal information is an asset of common interest to the City Council and city residents.
+Permanent access to the data, whether it is public or restricted or confidential, empowers the communities that have access to it, because it allows them to take duly informed decisions and means that they can be freer.
+
+For city residents, municipal data is a source of wealth that can help to break the cycle of poverty and can form a basis for sustainable human development.
+Access to public content is a basic democratic right that helps to reduce the digital gap and empowers city residents to decide and act freely in their social, work and leisure activities, from an individual and collective viewpoint.
+Correctly managing and disseminating this data must make it possible for city residents to have more formed opinions and a desire to participate in local affairs, guarantee a return on public investment in society, facilitate control of the Administration by city residents, accelerate access to knowledge, foster collaborative work, encourage innovation, which enriches education and stimulates the economy, increases productivity and helps to find new solutions to tackle the challenges facing new societies, which are constantly changing, in order to increase competitiveness and promote the progress of knowledge at a global level.
+
+For the City Council, in the broadest sense of the concept, the data that we generate, collect, receive, store, process and share also has a high intrinsic value.
+This places us in a privileged position that we need to know how to make the most of in order to share it with everyone.
+It is necessary to manage these information resources systematically and intelligently, taking into account their entire life cycle, in order to successfully transform them into an asset and to construct the necessary tools and services to get just-in-time data and make it available to the departments and people who need it, beyond the limits imposed by right of access.
+For the City Council, the benefits of this systematic process are also numerous: efficiency and responsibility are increased, the institution’s profile is raised and our knowledge is increased.
+It is a permanent and continual source of knowledge, because it is preserved properly, it guarantees the institution’s reputation, it improves transparency and accountability, it promotes reuse for the benefit of everyone and helps to improve productivity.
+
+From an architectural point of view, the City Council now has to rethink and develop flexible infrastructures, content and data, interoperable procedures and services that make it possible to change the data model and strategy in order to share it with all the interested communities, applying general criteria and protocols and adding specifications according to the various departmental businesses and objectives.
+
+The infrastructures have to include facilities, technology and the expertise of human teams.
+We have to see data from a broader perspective, referring to all information resources, including protected and open data, true digital and digitalised data, and even subscription or licensed electronic resources.
+The procedures have to standardise vocabulary, apply meta-data standards and guarantee interoperability within the worldwide digital data ecosystem.
+In addition to providing traditional information and assistance services, they must be flexible in order to address other emerging needs in a knowledge society that is changing so rapidly.
+
+These strategies must be able to define a data-classification model that takes into account legal and security aspects at each stage of the data’s life cycle, the tools for creating digital objects and assigning descriptive, administrative, technical and preservation metadata, as well as assigning univoc and persistent identifiers and they also have to ensure that the data and its metadata can be understood by humans and by machines, i.e. in order to guarantee open-access information that is easy to find, to share and which is machine readable.
+This is a change of model, where the new value is default access to municipal data.
+It is necessary to systematically apply data evaluation and selection procedures in order to also create a preservation policy that is sustainable in the long term, to plan the transfer to an analytic repository, or if necessary, definitive placement in a secure and verified repository so that the data is permanently accessible, to apply con-trolled vocabulary and standards, and with clear licences of use that are machine readable in order to enable individual or mass reuse, always stating the original source, and disclosing the existence of the data to city residents so that they are aware of its existence and that they have right of use.
+
+This has important legal consequences, such as those imposed by the new general data protection regulation (*RGPD*), which will be obligatory for all public institutions from May 2018.
+It must be stated that the City Council is working on a plan for adapting to the RGPD and that it has taken measures to that end.
+Dispersion of data services could cause security problems in the future (data dispersion can also mean unauthorised access to personal information by contractors and other players, although at this time, no leaks of any kind have taken place).
+For this reason, when what we want to do with the data internally is discussed, there are also architectural problems that must be tackled.
+These problems include the need for a unified point of access with sufficient technical capacity to manage large quantities of information, but also an interoperability standard for sharing data among services, systems and applications (i.e. a unified API policy).
+
+In terms of governance, there is a need for a body, a municipal data department, that spear-heads the new model, promotes the paradigm shift within the organisation and assigns responsibilities in order to ensure that data is managed as a real asset during its entire life cycle, which will generate added value.
+This government body has to carry out high-level supervision and be empowered to take decisions concerning possible data conflicts in public tenders.
+Furthermore, it will have to oversee a change in the City Council’s mentality, aimed at achieving a data-based focus in order to inform and take decisions concerning the city’s problems.
+
+Finally, in regard to exchanging data, the City Council has played a discreet role until now.
+It has maintained an open-data portal, but the portal had low standards, and there was a lack of decisive political support for opening up data.
+In regard to contracting, there is basically no concern about contract data, as it is not considered to be an internal asset.
+
+## Data-strategy motivations
+
+The conceptual plan must address the motivation for this programme.
+We live in a digital world, where access to technology makes it possible to transform many aspects of society.
+In particular, technology enables the scalability of processes and services.
+This factor, along with an ever-increasing availability of data for measuring practically every aspect of people’s lives (the so-called _*big data*_), could threaten the levels of freedom enjoyed by the citizens who live in our societies.
+Furthermore, although the inherent scalability offered by these technologies has positive consequences for efficiency, it may also lead to an increase in existing inequalities.
+
+As a public administration, the City Council is uniquely placed to ensure that this does not happen.
+It must promote an agenda that is explicitly geared towards ensuring the digital rights of city residents while also acting as a facilitator for generating well-distributed wealth.
+This wealth can be created through innovation and exploiting data, which has been described as “the new 21st century petroleum”:
+
+However, like petroleum, data must be refined using appropriate processes and skills, which not all social stakeholders have to the same degree.
+Therefore, a policy that merely defends “open data” in the name of transparency, and allows certain stakeholders access without any clear strategy or regulations, may lead to a society that is even more unequal.
+Although data must be made public, we shouldn’t forget that people’s capacities in terms of economic power, knowledge and infrastructure are not evenly distributed throughout the population.
+Therefore, as a public body, we must clearly change the current model of merely demanding that the data is opened up “naturally”.
+
+From a general perspective, public administrations must be the ones to spearhead this vision.
+We have sufficient power to promote our vision, as we have part of the critical infrastructures, major economic capacity, the communicative range and, to start off with, a significant body of data.
+A cultural change in this direction can therefore be achieved by encouraging the other stakeholders to come on board and follow the City Council’s lead.
+
+Furthermore, based on this government measure, it is necessary to define a framework that covers all the necessary actions concerning data, in order to ensure continued and permanent access under the FAIR data principles promoted by European bodies and especially by the Research Data Management Working Group.
+
+Finally, it must be taken into account that the City Council acts as a protector of city residents’ data.
+It is therefore very important to make this data available to them, so that it is accessible to city residents and so that a verifiable and trustworthy relationship can be built up.
+However, for this to become a reality, it is not enough for the data and the protocols to be transparent.
+City residents must also have the tools and knowledge to be able to verify them.
+In a world that is becoming more and more digitalised, this means that the City Council must promote activities that help to train city residents in digital knowledge.
+In order to do this, it is necessary to make people more aware of the importance of exercising digital rights and to also provide the general public with tools that allow them to understand the implications, possibilities and dangers behind a totally digitalised world, where a huge amount of data on human activities is available.

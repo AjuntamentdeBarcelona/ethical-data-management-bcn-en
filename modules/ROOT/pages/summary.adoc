@@ -1,0 +1,29 @@
+# Executive Summary
+
+In September 2016, Barcelona City Council embarked on a major digital transformation process announcing that public services must be provided through digital channels from the outset, following new guidelines based on citizen guidance and the use of open standards and open software and in accordance with an ethical data strategy that focuses on privacy, transparency and digital rights.
+
+The decision taken by the municipal government is based on the “Barcelona Digital City” Plan, approved in the “*Transition Towards Technological Sovereignty*” government measure in October 2016 and the new Spanish Act 39/2015 on Common Administrative Procedures for Public Authorities.
+This Act states that, by 2020, digital channels must take priority in the provision of public services in Spain.
+The Barcelona Digital City Plan establishes a radical improvement in digital public services as one of its main objectives, with the aim of providing services to city residents on a 24/7 basis that are of higher quality and better adapted to their needs.
+
+This document establishes the defining plan for the programme and all the actions and tasks that make up *the responsible and ethical use of data strategy*, developed as part of Barcelona’s Digital Transformation Plan (DTP).
+This plan is led by Barcelona City Council’s Commission for Digital Technology and Innovation.
+The document describes the programme’s scope, its relation to the DTP, its objectives and the implementation schedule for each task and action.
+The programme for open digitalisation is completed by free software and agile service development, published in a government measure in October 2017.
+
+Through this government measure and the action plan it contains, Barcelona becomes *the first Spanish city to develop a Municipal Data Office*, making it possible to structure informed public policies using information provided by data, the proper treatment of that data and its resulting analysis.
+The responsible and ethical use of data is a key element of Barcelona City Council’s Digital Transformation Plan, especially the Open Data and Data Commons strategies, data-driven projects and interoperability based on open-data formats.
+
+This government measure provides a global vision of the City Council’s data-management plan and the proposed changes for putting it into practice.
+It explains the governance mechanisms for this data management, the fundamental values for ensuring data sovereignty, privacy and security, and also presents the actions geared towards internal and external data enhancement, a practical approach based on establishing specific projects with a roadmap, a budget and a schedule.
+
+Ethical and responsible data management, together with the use of free software tools indicated in the previous government measure of October 2017, ensure universal access and improved transparency.
+We are also laying the foundations for new initiatives based on making the best use of data, which will strengthen the administration and make it more independent.
+
+The Code of Practice provided in an appendix to the government measure of October 2017 establishes the more technological directives aimed at putting the lines of action into practice, along with the measure’s requirements for the responsible use of data.
+
+This measure is accompanied by an directive concerning the Municipal Data Office, which defines the governance model and the roles and responsibilities of the people in charge of planning and supervising data management in the City Council.
+
+The agile transformation programme, which contains the responsible and ethical use of data strategy, is continually evolving.
+Therefore, the general provisions of this government measure will be updated and put into practice as the programme is applied.
+Our aim is to continue moving forward and do much more than this government measure proposes, given that it only establishes the principles of a process of continual improvement.

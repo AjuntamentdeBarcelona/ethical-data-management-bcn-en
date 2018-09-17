@@ -1,0 +1,18 @@
+# Introduction and justification
+
+Information and information technology (IT) resources are critical features of the social, political and economic welfare of Barcelona residents.
+In regard to local administration, they make it possible for the City Council to provide the general public with high-quality services, generate and disseminate knowledge and facilitate growth and improved productivity.
+
+For the City Council, it is important to maximise the quality and security of its data and information systems; to develop and apply the coherent management of information resources and management policies that aim to keep the general public constantly informed, protect their rights as subjects, improve the productivity, efficiency, effectiveness and public return of its projects and to promote responsible innovation.
+Furthermore, as technology evolves, it is important for public institutions to manage their information systems in such a way as to identify and minimise the security and privacy risks associated with the new capacities of those systems.
+
+Information management technologies also provide significant opportunities for local government.
+The far-reaching integration of IT with local responsibilities and their processes, together with the digital economy and combined with the increasing interconnection between technology and public services, has changed the way we share information and the use and perception of technologies, and has definitively transformed the general public’s expectations and the way they use technology.
+In order to respond to the general public’s expectations and to facilitate innovation, Barcelona City Council must continue to transform, with the aim of assimilating and adopting the digital revolution, while also maintaining its human team, and producing world class, safe digital services from the unequivocal perspective of public service.
+
+The *responsible and ethical use of data strategy* is part of Barcelona’s Digital Transformation Plan (*DTP*), which establishes the roadmap designed by the Commission for Digital Technology and Innovation and its policies for modernising data management and use within Barcelona City Council.
+The strategy is being put into practice in the shape of a plan that involves various programmes, which are described here.
+Although the programme was specifically conceived as a conceptual framework for achieving a cultural change in terms of the public perception of data, it basically covers all the aspects of the DTP that concern data, and in particular the open-data and data-commons strategies, data-driven projects, with the aim of providing better urban services and interoperability based on metadata schemes and open-data formats, permanent access and data use and reuse, with the minimum possible legal, economic and technological barriers within current legislation.
+
+Information technology is at the centre of almost everything, and the City Council and its manager’s offices, institutes, companies, consortiums, etc. must continue to identify ways to apply emerging technologies, which basically make it possible to improve general governance and to provide more and better services, while also reducing costs.
+The provision of high quality services means that the City Council has to change its methods for purchasing, building and providing IT.
