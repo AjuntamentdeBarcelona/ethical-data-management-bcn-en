@@ -135,4 +135,5 @@ The aim is to fill in the information “black holes” while also providing det
 
 The schedule for carrying out the emblematic projects relating to the new municipal-data strategy is as follows.
 
-image::schedule.svg[Schedule, width=2814, height=1445]
+[.text-center]
+image::schedule.svg[Schedule, width=70%]

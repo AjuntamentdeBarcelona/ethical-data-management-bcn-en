@@ -44,7 +44,8 @@ This also has to be achieved while recognising the need to return the control of
 This vision, based on the concept of the general public’s data sovereignty, will take the form of experimental projects, such as DECODE (see below) and in the integration of new technologies, such as distributed registries or blockchains and data encryption.
 
 .Barcelona Data Commons
-image::infografia_en.svg[Barcelona Data Commons, width=2814, height=1445]
+[.text-center]
+image::infografia_en.svg[Barcelona Data Commons, width=80%]
 
 ## The Municipal Data Office and the Chief Data Officer (CDO)
 
