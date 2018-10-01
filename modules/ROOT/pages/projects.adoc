@@ -7,29 +7,16 @@ These projects are structured around the creation of the Municipal Data Office a
 
 In this section, we present and provide a brief description of the most relevant projects to be undertaken in relation to this data programme, some of which are at an advanced stage, and which are known as “emblematic projects” because of their content and relevance.
 
-[cols=",",options="header",]
-|===
-a|
-*1. The Municipal Data Office*
-a|
-*2. City OS*
-a|
-*3. Open Data BCN*
-a|
-*4. DECODE*
-a|
-*5. Data City Challenge*
-a|
-*6. Data Exchange*
-a|
-*7. Control Panel for the Municipal Manager’s Office*
-a|
-*8. Monitoring gentrification*
-a|
-*9. Economic Activities Census*
-a|
-*10. Housing Observatory*
-|===
+. The Municipal Data Office
+. City OS
+. Open Data BCN
+. DECODE
+. Data City Challenge
+. Data Exchange
+. Control Panel for the Municipal Manager’s Office
+. Monitoring gentrification
+. Economic Activities Census
+. Housing Observatory
 
 ## The Municipal Data Office
 
