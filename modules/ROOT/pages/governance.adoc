@@ -1,8 +1,8 @@
-# Governance of municipal data: the Municipal Data Office
+= Governance of municipal data: the Municipal Data Office
 
 This *Strategy for the responsible and ethical use of data* entails an organisational change that should enable the proper application of the provisions that include it.
 
-## Organisation: the Municipal Data Office
+== Organisation: the Municipal Data Office
 
 The *Municipal Data Office* (MDO) has been created.
 This is a directorate made up of various other directorates and departments that, until now, have had missions concerning council data The Municipal Data Office is located in the Municipal Manager’s Office and answers to the Commission for Technology and Digital Information (CTID).
@@ -35,7 +35,7 @@ For this reason, it has to be situated in an appropriate location and with suita
 
 The MDO’s main functions and responsibilities are established in the directive that accompanies this measure.
 
-## Supervision: Commission for Technology and Digital Innovation (CTID)
+== Supervision: Commission for Technology and Digital Innovation (CTID)
 
 The CTID must be part of the governance committees which provide information about decisions that include IT resources and data, in order to facilitate advanced information from resources for programme objectives.
 After consultation with other manager’s offices, the CTID can delegate its functions to other technical personnel.

@@ -1,4 +1,4 @@
-# Strategic areas
+= Strategic areas
 
 In order to deploy *the strategy for the responsible and ethical use of data*, the following areas of action have been established, which we will detail below, together with the actions and emblematic projects associated with them.
 
@@ -10,7 +10,7 @@ In general, the strategy pivots on the following general principals, which form 
 * Political decision-making informed by data
 * The life cycle of data and continual or permanent access
 
-## The deployment of the new data governance
+== The deployment of the new data governance
 
 *GOVERNANCE POLICIES AND PROCESSES*
 
@@ -82,7 +82,7 @@ The CDO will also take part, for the review and authorisation, with the aim of p
 Each unit’s manager’s office, in consultation with municipal data officers, must describe the processes used to define the inventory of IT resources for efficiently achieving management objectives, considering new investments in IT and their potential and appropriateness for the council inventory.
 It will also be necessary to identify the differences between the programmed and executed budget, the schedules and the evaluation of IT objectives, and ensure that the necessary corrective measures are carried out.
 
-## Ethical and responsible data management
+== Ethical and responsible data management
 
 This tool establishes principles and directives for correct data management, in accordance with the principles indicated in this measure.
 The more technical aspects of this management are included in the Code of Technological Practices, published under the Government Measure for open digitalisation: free software and the agile development of services, of October 2017.
@@ -152,7 +152,7 @@ Municipal units and subsidiary bodies must produce a resilience plan that takes 
 This resilience plan is crucial for ensuring services are able to continue carrying out their tasks during disruptions.
 It is therefore necessary for organisations to develop continuity strategies in order to ensure that services can be reestablished in time to meet their objectives. “Manual shortcuts” must be part of this, so that critical operations can have continuity while normal services have not been resumed.
 
-## City Data Infrastructure
+== City Data Infrastructure
 
 This line of action aims to define the conditions at the architectural level in order to make the City Council’s internal management more agile, improve the services that the City Council offers city residents and facilitate the joint exchange of interesting data with society, both inside and outside the municipal government, and to ensure its preservation and continual access.
 The CDO and their office will be responsible for understanding the City Council’s data and having a unified, documented concept of it, as well as maintaining, planning and developing its architecture by using a unified management model.
@@ -200,7 +200,7 @@ In regard to the emblematic City OS project, various sub-projects will be carrie
 * *Protocols for opening open data.* Defining the protocol to be followed in order to proactively include data in the open-data catalogue, in particular for municipal civil servants who are willing to do so.
 * *Connection with the DECODE infrastructure:* Connecting City OS, IRIS, ASIA, SENTILO and BCNOpenData to the experimental DECODE platform (_https://decodeproject.eu/_)
 
-## Internal innovation based on data: analysis and data-based projects
+== Internal innovation based on data: analysis and data-based projects
 
 Data is becoming increasingly important in the Administration.
 It is necessary to design a long-lasting strategy for carrying out City Council projects, based on innovative data exploitation, carrying out better analysis and using big-data methodologies so as not to fall behind society and the private sector.
@@ -256,7 +256,7 @@ The emblematic projects in this area are:
 It is presented as a major tool for city residents and administrations in questions relating to housing.
 It is an instrument for evaluating and designing housing policies and designing and consulting available housing data.
 
-## Barcelona Data Exchange: external data enhancing
+== Barcelona Data Exchange: external data enhancing
 
 Barcelona City Council collects and regularly publishes an important set of data, statistics, indicators and sectoral studies concerning the city and its surrounding area, so that urban leaders, people in the field of research, consultancies and the entrepreneur community and the general public can get precise knowledge about the city, socio-demographic dynamics, the economy, the urban area, the general public’s opinion on various subjects, etc.
 

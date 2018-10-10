@@ -1,4 +1,4 @@
-# Objectives of the measure
+= Objectives of the measure
 
 This measure establishes the general policy for the governance, planning, procurement, management, analysis, use, protection, access and preservation, as long as necessary, and the reuse of municipal data to add value to municipal digital information throughout its life cycle, as well as aspects arising from this in terms of human resources, IT infrastructures and resources, economic management and support services.footnote:[Although this measure refers to various aspects of IT resources, such as privacy, confidentiality, information quality, disclosure and statistical policy, these concepts will be treated and developed in later directives. Units must apply the policies of this measure, and the directives and guidelines in a coherent and constant way.]
 
@@ -6,7 +6,7 @@ The strategy of responsible data management is defined with the aim of helping t
 
 This measure aims to ensure the City Council is able to establish a general infrastructure and harmonised processes in order to manage, use and (partially) disseminate data, which is known as *_data commons_*,footnote:[Already under way at http://ajuntament.barcelona.cat/digital/en/digital-transformation/city-data-commons.] and that it is also able to promote, implement and supervise projects that capitalise on and enhance data in an agile, uniform way (e.g. in terms of data interoperability and standardisation) through the Municipal Data Office, and ensure the responsible management of data in accordance with current legislation, together with the Data Protection Officer.
 
-## Goals
+== Goals
 
 The main objectives of this measure are:
 
@@ -26,7 +26,7 @@ Finally, we have to be able to show specific examples of the application of this
 
 This measure also presents *current emblematic projects*, through which these objectives are starting to be achieved, along with the structures, responsibilities and projects they require.
 
-## Barcelona Data Commons
+== Barcelona Data Commons
 
 The current situation of municipal data has to be transformed in order to turn it into a public asset, or *_data commons_*, with defined governance and rules that are created from the perspective of data as a common asset.
 The public and private perception of data has to change from that of an asset that offers a competitive advantage to one of a social “infrastructure” that must be public in order to ensure common well-being, and which is exchanged on a _quid pro quo basis_.
@@ -47,7 +47,7 @@ This vision, based on the concept of the general public’s data sovereignty, wi
 [.text-center]
 image::infografia_en.svg[Barcelona Data Commons, width=80%]
 
-## The Municipal Data Office and the Chief Data Officer (CDO)
+== The Municipal Data Office and the Chief Data Officer (CDO)
 
 Barcelona recognises the opportunity for demonstrating the proper use of data when making informed decisions, as well as for defining, analysing and resolving the challenges currently facing big cities, and the need for responsible and ethical management of this data.
 By using this measure, it therefore establishes the mission and objectives of the new Municipal Data Office (MDO) led by a Chief Data Officer (CDO), while also providing it with the necessary (human, technical and economic) resources to make use of the data pertaining to the city and its residents that is kept by the city.

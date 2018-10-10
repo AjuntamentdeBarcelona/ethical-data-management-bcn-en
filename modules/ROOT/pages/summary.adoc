@@ -1,4 +1,4 @@
-# Executive Summary
+= Executive Summary
 
 In September 2016, Barcelona City Council embarked on a major digital transformation process announcing that public services must be provided through digital channels from the outset, following new guidelines based on citizen guidance and the use of open standards and open software and in accordance with an ethical data strategy that focuses on privacy, transparency and digital rights.
 

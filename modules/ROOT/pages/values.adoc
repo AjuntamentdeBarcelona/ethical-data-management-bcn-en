@@ -1,4 +1,4 @@
-# Essential values of the programme
+= Essential values of the programme
 
 The current ubiquity and volume of this data and how easy it is to obtain, along with the possibilities of data science, are opening up many perspectives in terms of providing services.
 However, it also makes it easy to segment the population and identify people and put them under surveillance.
@@ -7,7 +7,7 @@ The virtual dimension and the sovereignty of city residents in this area is a su
 Administrations have to be prepared and make an effort to design a consistent strategy in this area.
 This must make it possible to ensure democracy, people’s full rights and their confidence in public institutions.
 
-## Essential values
+== Essential values
 
 Municipal data is a strategic asset and a valuable resource that enables local government to carry out its mission and its programmes effectively.
 Appropriate access to municipal data significantly improves the value of the information and the return on the investment involved in generating it.
@@ -69,7 +69,7 @@ Where no approved open standard exists in the required format, a proposed format
 * *Agile methodology*.
 The technological projects that are implemented for the management, analysis and dissemination of council data must preferably be carried out in accordance with the methodology defined in the Code of Technological Practices, published in the corresponding Barcelona City Council government measure in October 2017.
 
-## Data sovereignty
+== Data sovereignty
 
 “Data sovereignty” is a concept linked to German constitutional law, people’s right to their own information (where digital information concerning an individual is not subject to the control of a third party, and in particular, of people or systems that treat data in a third country, with regulations that are alien to the location of that individual)
 
@@ -85,7 +85,7 @@ In this context, the City Council’s information systems have to be determined 
 The City Council has to have the ability, at all times, to access its data, process it and make “local” security copies.
 Furthermore the City Council’s organisations and bodies must always respect the applicable data protection regulations regarding the access to and treatment of data by third parties, as well as international data transfers.
 
-## The ethical use of data
+== The ethical use of data
 
 Barcelona City Council is committed to the ethical use of data.
 This principle is structured in accordance with the following main values:

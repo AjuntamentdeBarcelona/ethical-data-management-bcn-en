@@ -1,4 +1,4 @@
-# Introduction and justification
+= Introduction and justification
 
 Information and information technology (IT) resources are critical features of the social, political and economic welfare of Barcelona residents.
 In regard to local administration, they make it possible for the City Council to provide the general public with high-quality services, generate and disseminate knowledge and facilitate growth and improved productivity.

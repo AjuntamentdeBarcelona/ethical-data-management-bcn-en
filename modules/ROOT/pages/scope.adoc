@@ -1,8 +1,8 @@
-# Scope of application
+= Scope of application
 
 This measure is applicable to the following organisations and data.
 
-## Organisations and systems
+== Organisations and systems
 
 The municipal executive structure and its dependent bodies are responsible for putting the actions and requirements arising from this measure into practice.
 
@@ -11,7 +11,7 @@ When an organisation carries out an order or acts as a service provider, the ult
 
 In regard to security and protection systems, the directives and executive orders defined in municipal guidelines and regulations must be applied.
 
-## Data
+== Data
 
 The data referred to by this measure includes all municipal data, understood as both the municipal data and metadata and the data-management systems that make continual access, use, reuse and preservation possible.
 In regard to municipal data, it is possible to make a conceptual distinction between various large information deposits / information groups:
@@ -38,7 +38,7 @@ This means that the City Council is the author and makes them available digitall
 These are information resources from sources external to the City Council, produced by third party authors, which the organisation compiles because they are needed for internal work.
 It is organised and accessible from the SEDAC corporate catalogue.
 
-## Environment and ecosystem
+== Environment and ecosystem
 
 When we talk about data today, we have to speak about technology.
 The Digital Transformation Plan (*DTP*) aims to change the way the City Council purchases and manages technology and interacts with the general public.

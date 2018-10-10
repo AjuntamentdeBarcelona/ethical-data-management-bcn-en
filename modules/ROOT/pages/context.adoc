@@ -1,6 +1,6 @@
-# Context
+= Context
 
-## Current situation
+== Current situation
 The City Council currently manages a lot of data including many kinds of information content that need to be properly identified and supervised, in order to ensure compliance with the inherent functions of public service, while respecting, and not infringing, the regulations concerning privacy, confidentiality, security, transparency, access and reuse that current legislation requires.
 Furthermore, we have to be able to work on and manage this data in a sustainable and appropriate way, in order to provide it with added value and a social aspect, transforming it into a real asset for city residents and for the municipal council itself.
 In the City Council, data is often kept in “informative silos” or in vertical piles, which means it cannot be easily shared between departments.
@@ -44,7 +44,7 @@ Finally, in regard to exchanging data, the City Council has played a discreet ro
 It has maintained an open-data portal, but the portal had low standards, and there was a lack of decisive political support for opening up data.
 In regard to contracting, there is basically no concern about contract data, as it is not considered to be an internal asset.
 
-## Data-strategy motivations
+== Data-strategy motivations
 
 The conceptual plan must address the motivation for this programme.
 We live in a digital world, where access to technology makes it possible to transform many aspects of society.
