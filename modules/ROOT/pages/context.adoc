@@ -1,6 +1,7 @@
 = Context
 
 == Current situation
+
 The City Council currently manages a lot of data including many kinds of information content that need to be properly identified and supervised, in order to ensure compliance with the inherent functions of public service, while respecting, and not infringing, the regulations concerning privacy, confidentiality, security, transparency, access and reuse that current legislation requires.
 Furthermore, we have to be able to work on and manage this data in a sustainable and appropriate way, in order to provide it with added value and a social aspect, transforming it into a real asset for city residents and for the municipal council itself.
 In the City Council, data is often kept in “informative silos” or in vertical piles, which means it cannot be easily shared between departments.

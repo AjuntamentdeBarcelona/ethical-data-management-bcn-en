@@ -1,4 +1,4 @@
 [appendix]
-= REFERENCES
+= References
 
-http://hdl.handle.net/11703/108746[*DIRECTIVE CONCERNING MUNICIPAL DATA GOVERNANCE AND THE MUNICIPAL DATA OFFICES*]
+http://hdl.handle.net/11703/108746[*Directive concerning municipal data governance and the municipal data offices*]
