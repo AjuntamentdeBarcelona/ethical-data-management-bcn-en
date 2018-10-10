@@ -61,7 +61,7 @@ In order to guarantee appropriate data security levels and to ensure confidentia
 The data will be protected in accordance with the risk arising from unauthorised access to, the use, disclosure, interruption, modification or destruction of this information.
 The units must produce a recovery plan that includes continuity strategies, in order to ensure that services and access can be restored in time to satisfy the mission’s needs.
 Furthermore, any information project or system must guarantee the possibility of tracing access to the data and the analysis of decision-making algorithms (or those supporting decision-making) and prepare and facilitate any audits that may be undertaken.
-Any third party involved in the processing of municipal data must offer sufficient guarantees concerning the implementation and maintenance of the required security measures, and the other directives defined in the Code of Technological Practices and the Technical Commission for Security.
+Any third party involved in the processing of municipal data must offer sufficient guarantees concerning the implementation and maintenance of the required security measures, and the other directives defined in the xref:tech-practices:ROOT:aim-and-scope.adoc[Technology Code of Practice] and the Technical Commission for Security.
 
 All projects and systems must comply with current laws and regulations, including the General Data Protection Regulation, the Spanish data protection law, Decree 3/2010, of 8 January, which regulates the National Security Scheme for Electronic Administration, and international security regulations, in particular regulation ISO/IEC 27002:2005, which establishes guidelines and general principles for initiating, putting into practice, maintaining and improving the information security management in an organisation.
 
@@ -85,7 +85,7 @@ It will also be necessary to identify the differences between the programmed and
 == Ethical and responsible data management
 
 This tool establishes principles and directives for correct data management, in accordance with the principles indicated in this measure.
-The more technical aspects of this management are included in the Code of Technological Practices, published under the Government Measure for open digitalisation: free software and the agile development of services, of October 2017.
+The more technical aspects of this management are included in the xref:tech-practices:ROOT:aim-and-scope.adoc[Technology Code of Practice], published under the Government Measure for open digitalisation: free software and the agile development of services, of October 2017.
 
 Subsidiary municipal bodies must manage data responsibly, inventory and register the authorised treatment processes, identify the data’s sources and its basic metadata, guarantee the data’s life cycle and take users into account when determining the format and frequency of updates, as well as other data management considerations.
 They must collaborate with other organisations on the promotion of efficient public services in order to comply with all the transparency policies and those related to privacy, security and accessibility.
