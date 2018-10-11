@@ -21,7 +21,7 @@ In this section, we present and provide a brief description of the most relevant
 == The Municipal Data Office
 
 The Municipal Data Office is a directorate that includes various areas and departments that are responsible for council data, and it is charged with overseeing the application of this measure.
-It is located in the Municipal Manager’s Office and it answers to the Commission for Technology and Digital Information.
+It is located in the Municipal Manager’s Office and it answers to the Commission for Technology and Digital Innovation.
 It is responsible for the management, quality, governance and exploitation of data relating to Barcelona City Council and all its associated bodies (public and private) that provide services to the general public.
 
 In particular the department of Data Analytics will be created in the DMO.
@@ -32,9 +32,7 @@ It will also have a role in the internal training and encouragement of City Coun
 == City OS
 
 City OS is an advanced data analysis platform with a unified concept of the city’s information, based on free and open-code products that will be offered to the community.
-It will help to detect problems in the city, shorten response times and improve public services by applying descriptive, predictive,
-
-simulation and modelling analysis, as well as pattern recognition.
+It will help to detect problems in the city, shorten response times and improve public services by applying descriptive, predictive, simulation and modelling analysis, as well as pattern recognition.
 The City Council’s manager’s offices and service departments will be able to use this data platform to make a more accurate analysis of information and therefore implement better public policies for the general public.
 
 == Open Data BCN
@@ -110,9 +108,7 @@ IT applications, and especially the integration system (internal and external in
 Barcelona’s Housing Observatory is a supra-municipal instrument founded with the aim of providing a holistic perspective on housing, in order to tackle housing problems in the Barcelona Metropolitan Area.
 It is promoted by various administrations: Barcelona City Council, the Barcelona Metropolitan Area, Barcelona Provincial Council, the Generalitat of Catalonia and the Association of Social Housing Managers (GHS).
 
-Knowledge concerning the housing sector and the residential situation of the population from various angles is a primary need and an essential condition for designing sensible, rigorous
-
-and effective strategies and public policies.
+Knowledge concerning the housing sector and the residential situation of the population from various angles is a primary need and an essential condition for designing sensible, rigorous and effective strategies and public policies.
 The Observatory is therefore an instrument that is able to provide all the necessary information and tools for evaluating and designing policies that must be undertaken in this area.
 Additionally, as society has advanced in terms of knowledge and the democratic demand for information, it must also be a body that provides city residents with information.
 
