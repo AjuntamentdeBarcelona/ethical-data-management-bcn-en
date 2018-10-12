@@ -179,7 +179,7 @@ The data is organised according to a system of ontologies geared to creating ana
 * *A secure, verified municipal repository:* This repository for archive preservation must guarantee continual access to all municipal data, registers and information resources that, after undergoing archive-evaluation processes, have been selected for permanent preservation.
 The secure repository must guarantee the authenticity of the data it stores and avoid the obsolescence of digital materials, while permitting the long-term sustainability of this tool.
 
-image::CityOS_infograph[CityOS infograph]
+image::CityOS_infograph.svg[CityOS infograph, width=2446]
 
 It will be necessary to write an information policy that includes all the data and obligatory processes needed to complete the data life cycle and deposit it in the city lake or in the secure preservation repository, according to preference.
 In order to do this, close collaboration from the IMI (technology provider and responsible for the development and maintenance of the City Council’s technological infrastructure) and from the various units and services that have their own infrastructures.
