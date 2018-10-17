@@ -8,4 +8,4 @@
 * xref:areas.adoc[Startegic areas]
 * xref:projects.adoc[Emblematic projects]
 * xref:references.adoc[References]
-* xref:glossary:ROOT:glossary.adoc[Glossary]
+// * xref:glossary:ROOT:glossary.adoc[Glossary]
