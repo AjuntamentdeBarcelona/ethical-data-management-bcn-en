@@ -1,3 +1,4 @@
+include::_partials/README.adoc[tag=metadata]
 = Introduction and justification
 
 Information and information technology (IT) resources are critical features of the social, political and economic welfare of Barcelona residents.

@@ -1,3 +1,8 @@
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
 * xref:summary.adoc[Executive summary]
 * xref:introduction.adoc[Introduction and justification]
 * xref:objectives.adoc[Objectives of the measure]
@@ -8,4 +13,5 @@
 * xref:areas.adoc[Startegic areas]
 * xref:projects.adoc[Emblematic projects]
 * xref:references.adoc[References]
+* link:myfile_{revnumber}.pdf[file.pdf]
 // * xref:glossary:ROOT:glossary.adoc[Glossary]

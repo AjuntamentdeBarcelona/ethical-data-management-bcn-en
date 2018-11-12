@@ -1,3 +1,4 @@
+include::_partials/README.adoc[tag=metadata]
 = Essential values of the programme
 
 The current ubiquity and volume of this data and how easy it is to obtain, along with the possibilities of data science, are opening up many perspectives in terms of providing services.
@@ -67,7 +68,7 @@ It is obligatory for the City Council’s digital services to use open standards
 Where no approved open standard exists in the required format, a proposed format shall be submitted pursuant to the applicable regulations and the requirements of the IMI’s open standards.
 
 * *Agile methodology*.
-The technological projects that are implemented for the management, analysis and dissemination of council data must preferably be carried out in accordance with the methodology defined in the xref:tech-practices:ROOT:aim-and-scope.adoc[Technology Code of Practice], published in the corresponding Barcelona City Council government measure in October 2017.
+The technological projects that are implemented for the management, analysis and dissemination of council data must preferably be carried out in accordance with the methodology defined in the xref:{lang}/tech-practices:ROOT:aim-and-scope.adoc[Technology Code of Practice], published in the corresponding Barcelona City Council government measure in October 2017.
 
 == Data sovereignty
 

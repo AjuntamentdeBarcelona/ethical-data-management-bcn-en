@@ -1,4 +1,8 @@
 = Objectives of the measure
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
 
 This measure establishes the general policy for the governance, planning, procurement, management, analysis, use, protection, access and preservation, as long as necessary, and the reuse of municipal data to add value to municipal digital information throughout its life cycle, as well as aspects arising from this in terms of human resources, IT infrastructures and resources, economic management and support services.footnote:[Although this measure refers to various aspects of IT resources, such as privacy, confidentiality, information quality, disclosure and statistical policy, these concepts will be treated and developed in later directives. Units must apply the policies of this measure, and the directives and guidelines in a coherent and constant way.]
 

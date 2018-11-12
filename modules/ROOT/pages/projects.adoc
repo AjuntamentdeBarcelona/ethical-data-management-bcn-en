@@ -1,3 +1,4 @@
+include::_partials/README.adoc[tag=metadata]
 = Emblematic projects
 
 The programme relating to the application of a new strategy that uses data in decision-making.

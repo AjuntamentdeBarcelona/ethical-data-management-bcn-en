@@ -1,3 +1,4 @@
+include::_partials/README.adoc[tag=metadata]
 = Scope of application
 
 This measure is applicable to the following organisations and data.

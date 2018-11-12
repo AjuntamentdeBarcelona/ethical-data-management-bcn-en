@@ -1,3 +1,4 @@
+include::_partials/README.adoc[tag=metadata]
 = Governance of municipal data: the Municipal Data Office
 
 This *Strategy for the responsible and ethical use of data* entails an organisational change that should enable the proper application of the provisions that include it.

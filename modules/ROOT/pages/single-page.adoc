@@ -2,14 +2,12 @@
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
-
 include::{partialsdir}/README.adoc[tag=metadata]
-
 ifndef::env-site,env-github[]
 :toc: left
 endif::[]
 :toclevels: 2
-
+:doctitle: {_title}
 = {doctitle}
 
 :sectnums!:
@@ -43,8 +41,5 @@ include::governance.adoc[]
 include::areas.adoc[]
 
 include::projects.adoc[]
-
-// (4/4) ADD BELOW THE LIST OF APPENDIXES. IMPORTANT: PUT A BLANK LINE BETWEEN
-// INCLUDES.
 
 include::references.adoc[]
