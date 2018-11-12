@@ -1,74 +1,77 @@
 // tag::metadata[]
+// IMPORTANT: the following block (until "end::metadata[]" appears) must be
+// contiguous (no blank lines).
+// MANDATORY. Two-letter code of the language.
 :lang: en
-
-// MANDATORY. URL pointing to a Git repository with the source code of the
-// document. Something like 'https://github.com/decidim/docs-features'.
-:_public_repo_url: https://github.com/AjuntamentdeBarcelona/ethical-data-management-bcn-en
-
-// MANDATORY.
-:_url: https://ethical-digital-standards-bcn.netlify.com/data-management/
-
-// MANDATORY. Title of the document. In web format, It appears as a heading of
-// level 1. In PDF format, it appears in a title page.
-:doctitle: Ethical Data Management
-
-// OPTIONAL. If not blank, it must begin with ": " (colon followed by a blank
-// space). In web format, it appears as part of the same heading of level 1 than
-// the title. In PDF format, it appears in the title page, just below the title.
-:_subtitle: Government measure concerning ethical management and accountable data: Barcelona Data Commons
-
+//
 // MANDATORY. Numeric revision in X.Y.Z format, where X, Y and Z are numbers,
 // and Z is optional.
 :revnumber: 0.1
-
+//
+// MANDATORY. URL pointing to a Git repository with the source code of the
+// document. Something like 'https://github.com/USERNAME/REPONAME'.
+:_public_repo_url: https://github.com/AjuntamentdeBarcelona/ethical-data-management-bcn-en
+//
+// MANDATORY.
+:_url: https://ethical-digital-standards-bcn.netlify.com/data-management/
+//
+// MANDATORY. Title of the document. In web format, it appears as a heading of
+// level 1. In PDF format, it appears in a title page.
+:_title: Ethical Data Management
+//
+// OPTIONAL. Subtitle of the document.
+:_subtitle: Government measure concerning ethical management and accountable data: Barcelona Data Commons
+//
+// MANDATORY. Comma-separated list of names.
+:authors: Francesca Bria, Màrius Boada, Malcolm Bain and Pau Balcells
+//
+// OPTIONAL. Comma-separated list of names.
+:_contributors:
+//
+// OPTIONAL. Comma-separated list of names.
+:_reviewers:
+//
 // OPTIONAL. Publication date of the revision. When the default value
 // ("{docdate}") is used, the current date in format YYYY-MM-DD is automatically
 // inserted in this field every time the formatted document (web or PDF) is
 // generated. It's also possible to manually write here a fixed date.
 :revdate: {docdate}
-
-// MANDATORY.
-:authors: Francesca Bria, Màrius Boada, Malcolm Bain and Pau Balcells
-
-// OPTIONAL.
-:_contributors:
-
-// OPTIONAL.
-:_reviewers:
-
-// MANDATORY. Summary of the contents of the document. This would correspond to
-// the "abstract" in an academic publication.
+//
+// MANDATORY. Short summary of the contents of the document. 4 lines max.
 :_summary: In September 2016, Barcelona City Council embarked on a major digital transformation process announcing that public services must be provided through digital channels from the outset, following new guidelines based on citizen guidance and the use of open standards and open software and in accordance with an ethical data strategy that focuses on privacy, transparency and digital rights.
-
+//
 // MANDATORY. Comma-separated list of terms to help classifying and searching
 // the document. In web format, this terms are integrated as SEO enabling
 // metadata. In PDF format, they are shown near the other metadata.
 :keywords: barcelona, city council, ethical digital standards, data, data management, data commons, accountable data, ethical data
-
+//
 // MANDATORY. Document's history.
 :_dochistory:
-
+//
 // MANDATORY. When the document is not in its 1.0 release, yet, we can write "WE
-// URGE YOU NOT TO CITE THIS YET UNTIL REVISION 1.0" Variables like {doctitle},
+// URGE YOU NOT TO CITE THIS YET UNTIL REVISION 1.0" Variables like {_title},
 // {authors}, {_subtitle}, {revnumber} or {docyear} can be used here.
-:_citation: {authors}, {docyear}, {doctitle}
-
+:_citation: {authors}, {docyear}, {_title}
+//
+// MANDATORY. Copyright owner.
+:_copyleft: Barcelona City Council and the authors of the text
+//
 // MANDATORY. Legal terms under which this document can be distributed and/or
 // modified. It's usually not necessary to modify the default contents of this
 // field.
-:_copyleft: Barcelona City Council and the authors of the text
-
-// MANDATORY
 :_license: Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA-4.0)
+//
+// MANDATORY. DO NOT CHANGE THIS.
+:page-lang: {lang}
 // end::metadata[]
 
 
 // tag::metadata-table[]
 
-= {doctitle}
+= {_title}
 
 [.lead]
-{_subtitle}
+{_subtitle}.
 
 [abstract]
 {_summary}
@@ -81,7 +84,7 @@ This document is part of the https://ajuntament.barcelona.cat/digital/en/digital
 
 [cols="20,80"]
 |===
-| Title                                 | {_url}[{doctitle}]
+| Title                                 | {_url}[{_title}]
 ifeval::["{_subtitle}" != ""]
 | Subtitle                              | {_subtitle}
 endif::[]
@@ -99,7 +102,6 @@ endif::[]
 ifeval::["{_participants}" != ""]
 | Participants                          | {_participants}
 endif::[]
-| Summary                               | {_summary}
 | Keywords                              | {keywords}
 ifeval::["{_dochistory}" != ""]
 | Document history                      | {_dochistory}
@@ -116,10 +118,8 @@ endif::[]
 This document can be forked, adapted, and reused under the conditions of the {_license} license.
 
 This repository contains the source code for the document, written in Asciidoc.
-The public renderized version of the document can be found at {_url}[{doctitle}].
+The public renderized version of the document can be found at {_url}[{_title}].
 You will find instructions on how to get the renderized version of this and other related documents at https://github.com/AjuntamentdeBarcelona/ethical-digital-standards-site.
 
 We--the maintainers of this project and the City of Barcelona--value your input, enjoy feedback and welcome improvements to our free software projects and documentation.
-
-We love issues and pull requests from everyone.
-For more details see link:./CONTRIBUTING.adoc[Contributing].
+For more details see the link:./CONTRIBUTING.adoc[CONTRIBUTING] file at the root of this repository.
