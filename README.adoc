@@ -17,7 +17,7 @@
 //
 // MANDATORY. Title of the document. In web format, it appears as a heading of
 // level 1. In PDF format, it appears in a title page.
-:_title: Ethical Data Management
+:_title: Gov. Measure Ethical Data Management
 //
 // OPTIONAL. Subtitle of the document.
 :_subtitle: Government measure concerning ethical management and accountable data: Barcelona Data Commons
