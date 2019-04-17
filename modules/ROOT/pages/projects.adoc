@@ -13,7 +13,7 @@ In this section, we present and provide a brief description of the most relevant
 . Open Data BCN
 . DECODE
 . Data City Challenge
-. Data Exchange
+. BCN Data Exchange
 . Control Panel for the Municipal Manager’s Office
 . Monitoring gentrification
 . Economic Activities Census
@@ -69,12 +69,12 @@ It will encourage the use of data for the common good (data commons), improve pu
 
 == BCN Data Exchange
 
-The BCN Data Store, to be developed by Barcelona City Council, is one step further along the path initiated with the BCNOpenData project.
+The BCN Data Exchange, to be developed by Barcelona City Council, is one step further along the path initiated with the Open Data BCN project.
 It aims to facilitate access to the data kept by the city, people and organisations for the common good (data commons).
 
 It will also develop a philosophy that emphasises the exploitation of the city’s data in all areas of the city’s political activity and will help to promote a clear “city data market” culture of exchange for both the public and private sectors.
 
-BCN Data Store will be a public library for services, easy to use and scalable as the services offered by the Municipal Data Office are developed.
+BCN Data Exchange will be a public library for services, easy to use and scalable as the services offered by the Municipal Data Office are developed.
 In order to bring this about, the “platform as a service” (PaaS) concept will be used.
 
 It will include communities and social groups in all services and will try to establish a network of people, member bodies, members, reviewers, friends and followers.
