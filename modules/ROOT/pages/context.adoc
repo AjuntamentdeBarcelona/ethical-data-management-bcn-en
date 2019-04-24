@@ -54,7 +54,7 @@ In regard to contracting, there is basically no concern about contract data, as 
 The conceptual plan must address the motivation for this programme.
 We live in a digital world, where access to technology makes it possible to transform many aspects of society.
 In particular, technology enables the scalability of processes and services.
-This factor, along with an ever-increasing availability of data for measuring practically every aspect of people’s lives (the so-called _*big data*_), could threaten the levels of freedom enjoyed by the citizens who live in our societies.
+This factor, along with an ever-increasing availability of data for measuring practically every aspect of people’s lives (the so-called *big data*), could threaten the levels of freedom enjoyed by the citizens who live in our societies.
 Furthermore, although the inherent scalability offered by these technologies has positive consequences for efficiency, it may also lead to an increase in existing inequalities.
 
 As a public administration, the City Council is uniquely placed to ensure that this does not happen.
