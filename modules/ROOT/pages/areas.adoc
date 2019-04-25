@@ -335,6 +335,6 @@ In this sense, initiatives for the external publication and evaluation of data i
 
 The emblematic projects in this area are:
 
-* *BCN Data Store:* this will be the public library for services, easy to use and scalable as the services offered by the Municipal Data Office are developed.
-* *BCNOpenData:* the improvements to BCNOpenData’s functionality make it possible to access and reuse the data generated or kept by public bodies, for the common good of interested people and organisations.
+* *BCN Data Exchange:* this will be the public library for services, easy to use and scalable as the services offered by the Municipal Data Office are developed.
+* *Open Data BCN:* the improvements to BCNOpenData’s functionality make it possible to access and reuse the data generated or kept by public bodies, for the common good of interested people and organisations.
 * *Data City Challenges:* ensuring the utmost efficiency in the services offered by the City Council, we will use datasets and the city as an experimental model for seeking solutions to major urban problems.
